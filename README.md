@@ -1,4 +1,4 @@
-# RESTful API documentation "Documents" Entity.
+# RESTful API documentation for "Documents" Entity.
 
 ## Show a single Document
 
