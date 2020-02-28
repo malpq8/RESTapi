@@ -1,2 +1,11 @@
-# RESTapi
-Design a RESTful web API that is documented in markdown. The documentation is to be hosted on GitHub in a public repository.
+# RESTful API "Documents"
+
+## Show a single Document
+**URL** /api/Documents/:pk/
+**URL Parameters** pk=[integer] where pk is the ID of the Account on the server.
+**Calling Method** : GET
+**Response Format** : JSON
+
+
+
+
